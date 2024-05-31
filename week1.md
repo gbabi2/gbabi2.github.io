@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Gbolahan Abioye
+author: Gbolahan Abioye
 ---
 
 5/27 - Monday - Memorial day, no institute.

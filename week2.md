@@ -25,3 +25,5 @@ The day commenced with a continued focus on literature review and analysis. I de
 As the week drew to a close, I dedicated the morning to finalizing our literature review documentation, ensuring all key findings and insights were accurately captured. The afternoon was spent reflecting on the week's progress and outlining next steps for our research. Despite the challenges faced in accessing comprehensive data, the week proved fruitful in advancing our understanding of AI technology in journalism.
 
 Overall, Week 2 was characterized by an intensive focus on literature review and research orientation. The insights gained will serve as a solid foundation for the next stages of our project, guiding our approach and informing future directions. I look forward to building upon this progress in the weeks to come.
+
+[Back](./)

@@ -24,4 +24,5 @@ Spent the day in the research labs, focusing on refining our models and troubles
 Wrapping up the week, we spent the morning in the labs finalizing our work and preparing for the next stages. It felt good to consolidate the progress we had made over the week. Lunch was a nice pause before the final push in the afternoon. We documented our achievements and outlined the tasks for the upcoming week. The sense of accomplishment was palpable, and it was a satisfying end to a busy week.
 
 Overall, Week 7 was a blend of steady lab work and new insights from the NSA talk. The progress we made in refining our text generation models was encouraging, and I’m excited to continue building on this momentum.
+
 [Back](./)
